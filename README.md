@@ -107,3 +107,6 @@ We can have multiple routes being handled by the same function, we just need to 
         return "<h1>Home page</h1>"
 
 not both http://127.0.0.1:5000/home and http://127.0.0.1:5000/ routes get me to the home page.
+
+
+Reference: https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
